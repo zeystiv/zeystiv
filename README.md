@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Zaeem 👋</h1>
+<h1 align="center">Hey, I'm Rao Zaeem 👋</h1>
 
 <p align="center">
   <a href="https://github.com/zeystiv">
@@ -35,8 +35,6 @@ I write code, and I write about the stuff underneath the code — why we get stu
 - 🐧 **Daily driver:** CachyOS · KDE Plasma · Neovim (LazyVim) · Fish + Starship
 - 🐱 **Fun fact:** I like having cats as my profile picture
 
-> *"Awareness isn't the last step of healing, but it is the first."*
-
 ---
 
 ### 🚀 What I'm building
@@ -44,7 +42,7 @@ I write code, and I write about the stuff underneath the code — why we get stu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📱 <a href="https://raozaeem.com/lab/systivia">Systivia: Identity-Led Habits</a></h4>
+      <h4>📱 <a href="https://systivia.com/">Systivia: Identity-Led Habits</a></h4>
       <p>Chasing outcomes doesn't build habits, believing who you are does. Systivia tracks your identity instead of your streaks, offline-first and live on Android.</p>
       <p>
         <a href="https://play.google.com/store/apps/details?id=com.systivia.habits">Google Play</a> ·
@@ -95,14 +93,16 @@ I write code, and I write about the stuff underneath the code — why we get stu
 ### ✍️ Latest writing
 
 <!-- WRITINGS:START -->
-- [For Those Who Feel Too Much](https://zeystiv.substack.com/p/the-weight-of-uncertainty) — <sub>2026-10-09</sub>
-- [An Effective Way To Build Habits Using Dopamine Detox](https://systivia.com/blog/dopamine-detox-for-habits) — <sub>2026-10-05</sub>
-- [While Waiting For You](https://medium.com/@zeystiv/while-waiting-for-you-1673f5685df1) — <sub>2026-09-25</sub>
-- [The Correct Way To Approach Self-Improvement](https://raozaeem.com/blog/way-to-self-improvement) — <sub>2026-09-21</sub>
-- [How To Stop Living In Your Mind](https://raozaeem.com/blog/stop-living-in-your-mind) — <sub>2026-09-18</sub>
-- [Notes to Self](https://raozaeem.com/blog/notes-to-self) — <sub>2026-09-14</sub>
-- [Mobile App - Systivia: Identity-Led Habits](https://raozaeem.com/lab/systivia) — <sub>2026-09-12</sub>
-- [You Don't Build Habits, You Build Identity](https://systivia.com/blog/identity-based-habits) — <sub>2026-09-08</sub>
+- [For Those Who Feel Too Much](https://zeystiv.substack.com/p/the-weight-of-uncertainty) — <sub>9 Oct, 2026</sub>
+- [An Effective Way To Build Habits Using Dopamine Detox](https://systivia.com/blog/dopamine-detox-for-habits) — <sub>5 Oct, 2026</sub>
+- [While Waiting For You](https://medium.com/@zeystiv/while-waiting-for-you-1673f5685df1) — <sub>25 Sept, 2026</sub>
+- [The Correct Way To Approach Self-Improvement](https://raozaeem.com/blog/way-to-self-improvement) — <sub>21 Sept, 2026</sub>
+- [How To Stop Living In Your Mind](https://raozaeem.com/blog/stop-living-in-your-mind) — <sub>18 Sept, 2026</sub>
+- [Notes to Self](https://raozaeem.com/blog/notes-to-self) — <sub>14 Sept, 2026</sub>
+- [Mobile App - Systivia: Identity-Led Habits](https://raozaeem.com/lab/systivia) — <sub>12 Sept, 2026</sub>
+- [You Don't Build Habits, You Build Identity](https://systivia.com/blog/identity-based-habits) — <sub>8 Sept, 2026</sub>
+- [The Emotional Cost Of Doom Scrolling](https://zeystiv.substack.com/p/emotional-cost-of-doom-scrolling) — <sub>19 Aug, 2026</sub>
+- [Confronting My Inner Monsters Face To Face](https://zeystiv.substack.com/p/confronting-my-inner-monsters) — <sub>17 August, 2026</sub>
 <!-- WRITINGS:END -->
 
 <sub>→ More on <a href="https://raozaeem.com/blog">raozaeem.com/blog</a></sub>
